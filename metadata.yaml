@@ -1,11 +1,16 @@
 _repo: Making-Home-Profitable_58962
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58962-h/images/cover.jpg
 creator:
   author:
     agent_name: Saint-Maur, Kate V.
     gutenberg_agent_id: '50238'
     url: http://www.gutenberg.org/2009/agents/50238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58962#Making-Home-Profitable
 gutenberg_issued: '2019-02-25'
 gutenberg_type: Text
 identifiers:
